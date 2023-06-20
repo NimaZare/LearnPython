@@ -1,2 +1,1 @@
-# Python Learning
-My Python Learning Codes
+# My Codes In Learning Python
